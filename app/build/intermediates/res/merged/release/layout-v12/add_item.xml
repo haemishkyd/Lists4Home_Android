@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#464646"
+    android:visibility="visible" >
+
+    <TableRow
+        android:id="@+id/tableRow8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:gravity="center_horizontal">
+        
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Start Typing the Name of the Item:"
+        android:textColor="#FFFFFF" />
+    
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <AutoCompleteTextView
+            android:id="@+id/autoCompleteTextView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"            
+            android:background="@drawable/rounded_corner"
+            android:contentDescription="Item"
+            android:minWidth="250dp"
+            android:textColor="#000000"
+            android:textCursorDrawable="@null" >
+
+            <requestFocus />
+        </AutoCompleteTextView>
+
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:visibility="gone"
+            android:text="This item does not exist in the database. Please choose a category for it." />        	
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#d3d3d3"
+            android:textColor="#000000"            
+            android:minWidth="250dp"
+            android:visibility="gone" />       
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:gravity="center_horizontal">
+        
+    <TextView
+        android:id="@+id/commentField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Enter a Comment:"
+        android:textColor="#FFFFFF" />
+    
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <EditText
+            android:id="@+id/comment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_corner"
+            android:inputType="text"
+            android:minWidth="250dp"
+            android:textColor="#000000"
+            android:textCursorDrawable="@null" />
+
+    </TableRow>
+        
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/submititem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="SubmitItemtoList"
+            android:textColor="#FFFFFF"
+            android:text="Submit"
+            android:gravity="center" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/cancelsubmit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="CancelSubmit"
+            android:textColor="#FFFFFF"
+            android:text="Cancel"
+            android:gravity="center" />
+
+    </TableRow>    
+
+</TableLayout><!-- From: file:/home/haemish/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/add_item.xml -->
