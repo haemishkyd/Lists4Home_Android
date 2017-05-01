@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher_play.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/ic_launcher_play.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_splash.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/logo_splash.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh_new.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/ic_action_refresh_new.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_about.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/ic_action_about.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/hand_basket_3.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/hand_basket_3.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/hand_basket_nb.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/hand_basket_nb.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/hand_basket_nb_bw.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/hand_basket_nb_bw.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/attention.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/attention.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi/hand_basket.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/hand_basket.png"
+    }
+]

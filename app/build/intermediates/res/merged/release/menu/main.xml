@@ -1,6 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:id="@+id/sync_button" android:title="Sync" android:showAsAction="always" android:icon="@drawable/ic_action_refresh" android:menuCategory="system"></item>
-    <item android:id="@+id/item3" android:title="About" android:showAsAction="always" android:icon="@drawable/ic_action_about" android:menuCategory="system"></item>
-    <item android:id="@+id/item4" android:title="Details" android:showAsAction="ifRoom" android:menuCategory="system"></item>    
-    <item android:id="@+id/item2" android:title="Logout" android:showAsAction="ifRoom" android:menuCategory="system"></item>
-</menu><!-- From: file:/home/haemish/StudioProjects/androidapplists4home/app/src/main/res/menu/main.xml -->

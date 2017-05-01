@@ -32,4 +32,4 @@
         android:layout_marginTop="2dp"
         android:layout_marginBottom="2dp" />
         
-</LinearLayout><!-- From: file:/home/haemish/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/listview_item_row.xml -->
+</LinearLayout>

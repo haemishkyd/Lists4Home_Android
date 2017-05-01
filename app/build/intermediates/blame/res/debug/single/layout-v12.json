@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/register.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/register.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/splash.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/splash.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/about.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/about.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/listview_item_row.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/listview_item_row.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/listview_header_row.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/listview_header_row.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/main.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/main.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/login.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/login.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/layout-v12/add_item.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/layout-v12/add_item.xml"
+    }
+]

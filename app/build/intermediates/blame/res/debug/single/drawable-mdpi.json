@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-mdpi/rain_icon.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-mdpi/rain_icon.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-mdpi/sunny_icon.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-mdpi/sunny_icon.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-mdpi/thunderstorms_icon.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-mdpi/thunderstorms_icon.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-mdpi/overcast_icon.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-mdpi/overcast_icon.png"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-mdpi/snow_icon.png",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-mdpi/snow_icon.png"
+    }
+]

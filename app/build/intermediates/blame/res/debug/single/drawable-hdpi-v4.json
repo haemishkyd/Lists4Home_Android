@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rounded_corner.xml",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/rounded_corner.xml"
+    },
+    {
+        "merged": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/exclamation.gif",
+        "source": "/home/haemish/Projects/StudioProjects/androidapplists4home/app/src/main/res/drawable-hdpi/exclamation.gif"
+    }
+]
